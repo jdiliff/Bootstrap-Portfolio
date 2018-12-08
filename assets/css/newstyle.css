@@ -1,0 +1,74 @@
+ #jess-iliff {
+    background: teal;
+    color: white;
+    text-align: left; 
+    height: 60px;
+    width: 250px;
+    position: absolute;
+    top:0;
+    left: 0; 
+    margin-left: 400px;
+ }
+
+
+img {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-right: 20px; 
+}
+
+h2 {
+    border-bottom: 2px solid gray;
+    padding: 15px;
+    background: white;
+    color: teal;
+}
+
+nav {
+    padding-left: 500px;
+    position: absolute;
+    right: 0; 
+    background: white;
+}
+  
+
+
+body {
+    background: lightgray; 
+}
+
+.portfolio-box {
+    background: white;
+
+}
+
+.about-paragraph {
+    background: white; 
+    height: 500px;
+    padding: 20px; 
+}
+
+header {
+    width: 100%;
+    background: white; 
+
+}
+
+.caption {
+    position: fixed;
+    background: teal;
+    color: white;
+    height: 40px;
+    width: 200px;
+    top: 225px;
+    text-align: center;
+}
+
+.form-group {
+    width: 800px;
+    background: white; 
+    margin: 20px;
+    padding: 10px;
+}
+    
